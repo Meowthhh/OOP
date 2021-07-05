@@ -27,7 +27,7 @@ class Rectangle
         cin >> l1;
         cout << "Width: ";
         cin >> w1;
-        if (l1 >= 1.0 and l1 <= 20.0 and w1 >= 1.0 and w1 <= 20.0)
+        if (l1 >= 1.0 && l1 <= 20.0 && w1 >= 1.0 && w1 <= 20.0)
         {
             length=l1;
             width=w1;
